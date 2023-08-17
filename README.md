@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning MERN and Full Stack Java Development
 - 💞️ I’m looking to collaborate on any open source development projects
 
+https://prasadlahane.github.io/MiniVideo/
+https://prasadlahane.github.io/Portfolio/
 
 <!---
 PrasadLahane/PrasadLahane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
